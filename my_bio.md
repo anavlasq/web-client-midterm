@@ -2,5 +2,5 @@
 
 My name is Ana velasquez.
 I am a Computer Science student.
-I love pink
+I like figure skating.
 I'm from Colombia.
